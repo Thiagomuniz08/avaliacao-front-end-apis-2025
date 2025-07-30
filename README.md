@@ -86,8 +86,8 @@ Serão avaliados os seguintes pontos:
 
 ## Barra de Pesquisa
 
-![](./assets/login3.png)
+![](./assets/login4.png)
 
 ## Informação do Posts
 
-![](./assets/login4.png)
+![](./assets/login3.png)
